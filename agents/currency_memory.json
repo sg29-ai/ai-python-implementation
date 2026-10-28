@@ -1,0 +1,1 @@
+{"last_amount": "300", "last_from": "USD", "last_to": "CAD", "history": [{"query": "Convert 100 USD to CAD", "amount": "100", "from": "USD", "to": "CAD", "result": 140.646342}, {"query": "convert 20", "amount": "20", "from": "USD", "to": "CAD", "result": 28.129268399999997}, {"query": "convert 300", "amount": "300", "from": "USD", "to": "CAD", "result": 421.93902599999996}]}
